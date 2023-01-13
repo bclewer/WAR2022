@@ -1,0 +1,32 @@
+.DrawRankingTabWindow {
+  margin-top: 10px;
+}
+
+.DrawRankingTab {
+  background-color: navy;
+}
+
+.Round_Body {
+  background-color: #141d40;
+}
+
+.RoundTabContent {
+  color: var(--bs-white);
+}
+
+.RoundDrawTable {
+  color: var(--bs-white);
+}
+
+.nav-tabs .nav-link {
+  margin-bottom: calc(var(--bs-nav-tabs-border-width) * -1);
+  background: 0 0;
+  border: var(--bs-nav-tabs-border-width) solid transparent;
+  border-top-left-radius: var(--bs-nav-tabs-border-radius);
+  border-top-right-radius: var(--bs-nav-tabs-border-radius);
+  color: var(--bs-nav-tabs-link-active-bg);
+}
+
+th {
+}
+
